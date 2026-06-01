@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Amadou Traore Keita
 
-<!--
-**amtraorek/amtraorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SMX Graduate | Aspiring Cloud & Cybersecurity Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Cloud Computing (AWS & Azure)
+- Cybersecurity
+- Networking
+- Linux systems
+
+---
+
+## 📚 Currently learning
+- SC-900 Security fundamentals ✔
+- CCNT Networking
+- AWS Cloud fundamentals
+- Azure fundamentals
+- Python for automation
+
+---
+
+## 🎯 Goals
+- Become a Cloud / Cybersecurity Engineer
+- Build real-world IT projects
+- Work with AWS & Azure
+
+---
+
+## 🌍 Languages
+- English
+- Spanish
+- Catalan
