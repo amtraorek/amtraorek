@@ -108,16 +108,12 @@ Full IT infrastructure deployment for **Grup Alimentari Guissona** as final degr
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amtraorek&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtraorek&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtraorek&hide_border=true&theme=default"/>
-</p>
+- 🔐 Become a Cloud / Cybersecurity Engineer
+- 🖥️ Work as a SysAdmin and build scalable, secure infrastructure
+- ☁️ Work professionally with AWS & Azure
+- 🛠️ Build real-world IT projects and contribute to open source
 
 ---
 
@@ -127,15 +123,3 @@ Full IT infrastructure deployment for **Grup Alimentari Guissona** as final degr
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-## 🎯 Goals
-- Become a Cloud / Cybersecurity Engineer
-- Build real-world IT projects
-- Work with AWS & Azure
-
----
-
-## 🌍 Languages
-- English
-- Spanish
-- Catalan
