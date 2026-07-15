@@ -1,46 +1,44 @@
-<h1 align="center">Hi, I'm Amadou Traore Keita 👋</h1>
+<h1 align="center">Hola, soy Amadou Traore Keita 👋</h1>
 
 <p align="center">
-  <b>SMR Graduate · Specialising in Cloud & Cybersecurity · Barcelona 🇪🇸</b><br/>
-  <i>Building real infrastructure. Earning real certifications. Ready for real challenges.</i>
+  <b>Graduado en SMR · Especializado en Cloud & Ciberseguridad · Barcelona 🇪🇸</b><br/>
+  <i>Construyendo infraestructura real. Obteniendo certificaciones reales. Listo para retos reales.</i>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/amtraorek"><img src="https://img.shields.io/badge/LinkedIn-amtraorek-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://mastodon.social/@amtraorek"><img src="https://img.shields.io/badge/Mastodon-@amtraorek-6364FF?style=flat-square&logo=mastodon&logoColor=white"/></a>
   <a href="https://bsky.app/profile/amtraorek.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@amtraorek-0085ff?style=flat-square&logo=bluesky&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Barcelona-Spain-c60b1e?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=amtraorek&color=0A66C2&style=flat-square&label=Profile+views"/>
+  <img src="https://img.shields.io/badge/Barcelona-España-c60b1e?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=amtraorek&color=0A66C2&style=flat-square&label=Visitas+al+perfil"/>
 </p>
 
 ---
 
-## 🙋‍♂️ About me
+## 🙋‍♂️ Sobre mí
 
-I'm a **Systems and Network Technician (SMR)** with a strong interest in **Cloud Computing, Cybersecurity and Artificial Intelligence**.
+Soy **Técnico en Sistemas Microinformáticos y Redes (SMR)** con un fuerte interés en **Cloud Computing, Ciberseguridad e Inteligencia Artificial**.
 
-Throughout my studies I've developed hands-on skills in systems administration, server management, network configuration and IT support — complemented by Microsoft and Cisco certifications and continuous self-learning through platforms, home labs and real-world projects.
+A lo largo de mis estudios he desarrollado habilidades prácticas en administración de sistemas, gestión de servidores, configuración de redes y soporte IT — complementadas con certificaciones de Microsoft y Cisco, y aprendizaje continuo a través de plataformas, homelabs y proyectos reales.
 
-I'm currently specialising in **Cloud & Cybersecurity**, aiming to grow as a Cloud/Cybersecurity Engineer in Barcelona. I consider myself a responsible, consistent and always-learning professional.
+Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objetivo de crecer como Ingeniero Cloud/Ciberseguridad en Barcelona. Me considero un profesional responsable, constante y en aprendizaje continuo.
 
 > 📍 **Barcelona** · 🌐 ES · CA · EN
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack tecnológico
 
-**☁️ Cloud & Virtualisation**
+**☁️ Cloud & Virtualización**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-**🖥️ Operating Systems & Servers**
+**🖥️ Sistemas operativos y servidores**
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -48,16 +46,16 @@ I'm currently specialising in **Cloud & Cybersecurity**, aiming to grow as a Clo
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
-**🔐 Security & Networking**
+**🔐 Seguridad y redes**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-c03a2b?style=flat-square&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Redes_Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Firewall/IDS](https://img.shields.io/badge/Firewall_/_IDS-444?style=flat-square&logoColor=white)
 
-**🛠️ Tools & Languages**
+**🛠️ Herramientas y lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -68,58 +66,56 @@ I'm currently specialising in **Cloud & Cybersecurity**, aiming to grow as a Clo
 
 ---
 
-## 🏆 Featured project
+## 🏆 Proyecto destacado
 
-### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Grade **10 / 10** ⭐
+### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10** ⭐
 
-Full IT infrastructure deployment for **Grup Alimentari Guissona** as final degree project:
+Despliegue completo de infraestructura IT para **Grup Alimentari Guissona** como proyecto final de grado:
 
-| Component | Technology |
+| **Componente** | **Tecnología** |
 |-----------|-----------|
-| Local server | Raspberry Pi |
-| Containerisation | Docker |
-| Security monitoring (SOC) | Wazuh SIEM |
-| Secure remote access | WireGuard VPN |
-| Cloud services | AWS |
+| **Servidor local** | Raspberry Pi |
+| **Contenerización**| Docker |
+| **Monitorización de seguridad (SOC)** | Wazuh SIEM |
+| **Acceso remoto seguro** | WireGuard VPN |
+| **Servicios cloud** | AWS |
 
 ---
 
-## 📜 Certifications
+## 📜 Certificaciones
 
-| Status | Certification | Issuer |
+| Estado | Certificación | Emisor |
 |--------|--------------|--------|
-| ✅ | SC-900 — Security, Compliance & Identity Fundamentals | Microsoft |
-| ✅ | AI-900 — Azure AI Fundamentals | Microsoft |
-| ✅ | CCST — Cybersecurity | Cisco |
+| ✅ | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
+| ✅ | AI-900 — Fundamentos de Azure AI | Microsoft |
+| ✅ | CCST — Ciberseguridad | Cisco |
 | ⏳ | AWS Cloud Practitioner | AWS |
-| ⏳ | AZ-900 — Azure Fundamentals | Microsoft |
-| ⏳ | CCNA — Networking | Cisco |
+| ⏳ | AZ-900 — Fundamentos de Azure | Microsoft |
 
 ---
 
-## 📚 Currently learning
+## 📚 Actualmente aprendiendo
 
 ```text
-☁️  AWS Cloud Practitioner      ████████░░░░  In progress
-🔵  AZ-900 Azure Fundamentals   ██████░░░░░░  In progress
-🌐  CCNA Networking             █████░░░░░░░  In progress
-🐍  Python for automation       ████░░░░░░░░  In progress
+☁️  AWS Cloud Practitioner      ████████░░░░  En progreso
+🔵  AZ-900 Azure Fundamentals   ██████░░░░░░  En progreso
+🐍  Python para automatización  ████░░░░░░░░  En progreso
 ```
 
 ---
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-- 🔐 Become a Cloud / Cybersecurity Engineer
-- 🖥️ Work as a SysAdmin and build scalable, secure infrastructure
-- ☁️ Work professionally with AWS & Azure
-- 🛠️ Build real-world IT projects and contribute to open source
+- 🔐 Convertirme en Ingeniero Cloud / Ciberseguridad
+- 🖥️ Trabajar como SysAdmin y construir infraestructura escalable y segura
+- ☁️ Trabajar profesionalmente con AWS y Azure
+- 🛠️ Construir proyectos IT reales y contribuir a open source
 
 ---
 
 <p align="center">
-  <i>Open to internships and junior positions in Cloud & Cybersecurity · Barcelona</i><br/><br/>
+  
   <a href="https://linkedin.com/in/amtraorek">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
