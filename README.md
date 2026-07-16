@@ -62,7 +62,7 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH_/_RDP-2B7A78?style=flat-square&logoColor=white)
-![DNS/DHCP](https://img.shields.io/badge/DNS_/_DHCP_/_FTP-1D3557?style=flat-square&logoColor=white)
+![DNS/DHCP](https://img.shields.io/badge/DNS_/_DHCP_/_FTP / MAIL-1D3557?style=flat-square&logoColor=white)
 
 ---
 
