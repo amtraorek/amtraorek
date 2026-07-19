@@ -40,6 +40,7 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 
 **🖥️ Sistemas operativos y servidores**
 
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
