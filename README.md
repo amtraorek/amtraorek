@@ -42,6 +42,7 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -49,7 +50,10 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 **🔐 Seguridad y redes**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-c03a2b?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS/IPS-FF6600?style=flat-square&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat-square&logo=fail2ban&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Redes_Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -57,7 +61,7 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 
 **🛠️ Herramientas y lenguajes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
