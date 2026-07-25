@@ -128,7 +128,7 @@ Si quieres hablar sobre **Cloud Computing, Infraestructura, Ciberseguridad** o c
   <img src="https://img.shields.io/badge/LinkedIn-amtraorek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:amtraorek@gmail.com">
   <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
 </a>
 
