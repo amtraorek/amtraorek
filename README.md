@@ -1,34 +1,40 @@
-<h1 align="center">Hola, soy Amadou Traore Keita 👋</h1>
+<h1 align="center">Amadou Traore Keita</h1>
 
 <p align="center">
-  <b>Graduado en SMR · Especializado en Cloud & Ciberseguridad · Barcelona 🇪🇸</b><br/>
-  <i>Construyendo infraestructura real. Obteniendo certificaciones reales. Listo para retos reales.</i>
+  <b>Cloud • Ciberseguridad • Infraestructura</b>
+</p>
+
+<p align="center">
+  Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona 🇪🇸
+</p>
+
+<p align="center">
+  <i>Construyendo infraestructura segura mediante proyectos reales, certificaciones y aprendizaje continuo.</i>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/amtraorek"><img src="https://img.shields.io/badge/LinkedIn-amtraorek-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mastodon.social/@amtraorek"><img src="https://img.shields.io/badge/Mastodon-@amtraorek-6364FF?style=flat-square&logo=mastodon&logoColor=white"/></a>
   <a href="https://bsky.app/profile/amtraorek.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@amtraorek-0085ff?style=flat-square&logo=bluesky&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Barcelona-España-c60b1e?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=amtraorek&color=0A66C2&style=flat-square&label=Visitas+al+perfil"/>
 </p>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 👨‍💻 Perfil
 
-Soy **Técnico en Sistemas Microinformáticos y Redes (SMR)** con un fuerte interés en **Cloud Computing, Ciberseguridad e Inteligencia Artificial**.
+**Técnico en Sistemas Microinformáticos y Redes (SMR)**, especializado en administración de sistemas, redes y soporte IT, con un claro enfoque en Cloud Computing, Ciberseguridad e Infraestructura y Administración de Sistemas.
 
-A lo largo de mis estudios he desarrollado habilidades prácticas en administración de sistemas, gestión de servidores, configuración de redes y soporte IT — complementadas con certificaciones de Microsoft y Cisco, y aprendizaje continuo a través de plataformas, homelabs y proyectos reales.
+He desarrollado experiencia práctica en administración de sistemas y servidores, configuración de redes, virtualización y soporte técnico, complementando mi formación con certificaciones de Microsoft y Cisco, homelabs y proyectos reales.
 
-Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objetivo de crecer como Ingeniero Cloud/Ciberseguridad en Barcelona. Me considero un profesional responsable, constante y en aprendizaje continuo.
+Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab ](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis) .
+
+Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Ciberseguridad, diseñando, desplegando y protegiendo infraestructuras modernas.
 
 > 📍 **Barcelona** · 🌐 ES · CA · EN
 
 ---
 
-## 🛠️ Stack tecnológico
-
+## ⚡Stack tecnológico
 **☁️ Cloud & Virtualización**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
@@ -70,11 +76,26 @@ Actualmente me estoy especializando en **Cloud & Ciberseguridad**, con el objeti
 
 ---
 
-## 🏆 Proyecto destacado
+## 🏗️ Proyectos
+### [CoreLab — Plataforma de Infraestructura y Ciberseguridad sobre Proxmox](https://github.com/amtraorek/corelab) 
+> **🟡 En desarrollo** · ***Iniciado el*** **01/07/2026** 
+
+Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de aprendizaje para administración de sistemas, cloud, monitorización y ciberseguridad.
+
+| **Componente** | **Tecnología** |
+|------------|------------|
+| **Hipervisor** | Proxmox VE |
+| **Contenedores** | Docker + LXC |
+| **DNS interno** | AdGuard Home + BIND9 |
+| **Proxy inverso** | Nginx Proxy Manager |
+| **Monitorización** | Prometheus + Grafana |
+| **Disponibilidad** | Uptime Kuma |
+| **Seguridad** | Vaultwarden |
 
 ### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10** ⭐
+> **🟢 Finalizado** · ***Proyecto de final de grado*** 
 
-Despliegue completo de infraestructura IT para **Grup Alimentari Guissona** como proyecto final de grado:
+Despliegue completo de una infraestructura IT para **Grup Alimentari Guissona**, abarcando servicios de red, virtualización, monitorización, almacenamiento y acceso remoto seguro.
 
 | **Componente** | **Tecnología** |
 |-----------|-----------|
@@ -95,31 +116,28 @@ Despliegue completo de infraestructura IT para **Grup Alimentari Guissona** como
 | ✅ | CCST — Ciberseguridad | Cisco |
 | ⏳ | AWS Cloud Practitioner | AWS |
 | ⏳ | AZ-900 — Fundamentos de Azure | Microsoft |
-
 ---
 
-## 📚 Actualmente aprendiendo
+## 📫 Contacto
 
-```text
-☁️  AWS Cloud Practitioner      ████████░░░░  En progreso
-🔵  AZ-900 Azure Fundamentals   ██████░░░░░░  En progreso
-🐍  Python para automatización  ████░░░░░░░░  En progreso
-```
-
----
-
-## 🎯 Objetivos
-
-- 🔐 Convertirme en Ingeniero Cloud / Ciberseguridad
-- 🖥️ Trabajar como SysAdmin y construir infraestructura escalable y segura
-- ☁️ Trabajar profesionalmente con AWS y Azure
-- 🛠️ Construir proyectos IT reales y contribuir a open source
-
----
+Si quieres hablar sobre **Cloud Computing, Infraestructura, Ciberseguridad** o colaborar en algún proyecto, no dudes en contactar conmigo.
 
 <p align="center">
-  
-  <a href="https://linkedin.com/in/amtraorek">
-    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://linkedin.com/in/amtraorek">
+  <img src="https://img.shields.io/badge/LinkedIn-amtraorek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:TU_CORREO">
+  <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+</a>
+
+<a href="https://github.com/amtraorek">
+  <img src="https://img.shields.io/badge/GitHub-amtraorek-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 </p>
+
+
+
+
