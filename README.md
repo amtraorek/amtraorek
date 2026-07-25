@@ -53,6 +53,16 @@ Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Cibe
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
+### 🏗️ Infraestructura y Monitorización
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
+![BIND9](https://img.shields.io/badge/BIND9-00599C?style=flat-square)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000000?style=flat-square&logo=bitwarden&logoColor=white)
+
 **🔐 Seguridad y redes**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-c03a2b?style=flat-square&logoColor=white)
