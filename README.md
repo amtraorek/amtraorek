@@ -75,6 +75,7 @@ Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Cibe
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Firewall/IDS](https://img.shields.io/badge/Firewall_/_IDS-444?style=flat-square&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+
 **🛠️ Herramientas y lenguajes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
