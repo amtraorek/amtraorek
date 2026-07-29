@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Construyendo infraestructura segura mediante proyectos reales, certificaciones y aprendizaje continuo.</i>
+  <i>Construyendo infraestructura IT mediante proyectos reales, homelab y aprendizaje continuo.</i>
 </p>
 
 <p align="center">
