@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Construyendo infraestructura segura mediante proyectos reales, certificaciones y aprendizaje continuo.</i>
+  <i>Construyendo y documentando infraestructura IT mediante proyectos personales, homelab y laboratorios prácticos.</i>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ He desarrollado experiencia práctica en administración de sistemas y servidore
 
 Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab ](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis) .
 
-Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Ciberseguridad, diseñando, desplegando y protegiendo infraestructuras modernas.
+Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y ciberseguridad, participando en el diseño, despliegue y protección de infraestructuras.
 
 > 📍 **Barcelona** · 🌐 ES · CA · EN
 
@@ -42,26 +42,26 @@ Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Cibe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-**🖥️ Sistemas operativos y servidores**
+
+**🖥️ Virtualización**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**⌨️ Sistemas operativos y servidores**
+
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ### 🏗️ Infraestructura y Monitorización
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
-![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white)
-![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![BIND9](https://img.shields.io/badge/BIND9-00599C?style=flat-square)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000000?style=flat-square&logo=bitwarden&logoColor=white)
+
 
 **🔐 Seguridad y redes**
 
@@ -70,11 +70,7 @@ Mi objetivo es desarrollar mi carrera profesional como Ingeniero Cloud o de Cibe
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat-square&logo=fail2ban&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Redes_Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Firewall/IDS](https://img.shields.io/badge/Firewall_/_IDS-444?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+
 **🛠️ Herramientas y lenguajes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -105,7 +101,13 @@ Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de 
 ### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10** ⭐
 > **🟢 Finalizado** · ***Proyecto de final de grado*** 
 
-Despliegue completo de una infraestructura IT para **Grup Alimentari Guissona**, abarcando servicios de red, virtualización, monitorización, almacenamiento y acceso remoto seguro.
+Despliegue completo de una infraestructura IT para una organización ficticia basada en el caso de Grup Alimentari Guissona, abarcando servicios de red, servidores, virtualización, almacenamiento, monitorización, seguridad y acceso remoto seguro.
+
+Implementación de servicios como Active Directory, DNS, Nextcloud, WordPress, correo corporativo, copias de seguridad y herramientas de monitorización.
+
+Desarrollo de un pequeño SOC con Wazuh SIEM, Suricata IDS/IPS y Fail2ban, integrando alertas de seguridad y análisis de eventos.
+
+Entorno desplegado combinando servidor local con Debian, Docker y servicios cloud en AWS.
 
 | **Componente** | **Tecnología** |
 |-----------|-----------|
@@ -124,8 +126,9 @@ Despliegue completo de una infraestructura IT para **Grup Alimentari Guissona**,
 | ✅ | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
 | ✅ | AI-900 — Fundamentos de Azure AI | Microsoft |
 | ✅ | CCST — Ciberseguridad | Cisco |
-| ⏳ | AWS Cloud Practitioner | AWS |
 | ⏳ | AZ-900 — Fundamentos de Azure | Microsoft |
+| ⏳ | AWS Cloud Practitioner | AWS |
+
 ---
 
 ## 📫 Contacto
