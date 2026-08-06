@@ -41,41 +41,30 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
----
+
 
 ### 🖥️ Virtualización
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-Containers-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 
-**🖥️ Virtualización**
 
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+### 🖥️ Sistemas operativos y servidores
 
-**🖥️ Sistemas operativos y servidores**
-
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ### 🏗️ Infraestructura y monitorización
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
-![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white)
-![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![BIND9](https://img.shields.io/badge/BIND9-00599C?style=flat-square)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000000?style=flat-square&logo=bitwarden&logoColor=white)
 
----
+
+
 
 ### 🔐 Seguridad y redes
 
@@ -84,11 +73,7 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat-square)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Redes_Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Firewall/IDS](https://img.shields.io/badge/Firewall_/_IDS-444?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+
 **🛠️ Herramientas y lenguajes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
