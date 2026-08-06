@@ -83,6 +83,8 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
+
 ## 🏗️ Proyectos
 ### [CoreLab — Plataforma de Infraestructura y Ciberseguridad sobre Proxmox](https://github.com/amtraorek/corelab) 
 > **🟡 En desarrollo** · ***Iniciado el*** **01/07/2026** 
