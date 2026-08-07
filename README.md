@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona 🇪🇸
+  Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona
 </p>
 
 <p align="center">
@@ -20,53 +20,47 @@
 
 ---
 
-## 👨‍💻 Perfil
+## Perfil
 
 **Técnico en Sistemas Microinformáticos y Redes (SMR)**, especializado en administración de sistemas, redes y soporte IT, con un claro enfoque en Cloud Computing, Ciberseguridad e Infraestructura y Administración de Sistemas.
 
 He desarrollado experiencia práctica en administración de sistemas y servidores, configuración de redes, virtualización y soporte técnico, complementando mi formación con certificaciones de Microsoft y Cisco, homelabs y proyectos reales.
 
-Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab ](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis) .
+Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
 
 Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y ciberseguridad, participando en el diseño, despliegue y protección de infraestructuras.
 
-> 📍 **Barcelona** · 🌐 ES · CA · EN
+> **Barcelona** · ES · CA · EN
 
 ---
 
-## ⚡ Stack tecnológico
+## Stack tecnológico
 
-### ☁️ Cloud
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-
-
-### 🖥️ Virtualización
+### Virtualización
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-Containers-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
-
-
-### 🖥️ Sistemas operativos y servidores
+### Sistemas operativos y servidores
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
-### 🏗️ Infraestructura y monitorización
+### Infraestructura y monitorización
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-
-
-
-### 🔐 Seguridad y redes
+### Seguridad y redes
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-C0252C?style=flat-square)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
@@ -74,7 +68,7 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-**🛠️ Herramientas y lenguajes**
+### Herramientas y lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -85,9 +79,11 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 
 ---
 
-## 🏗️ Proyectos
-### [CoreLab — Plataforma de Infraestructura y Ciberseguridad sobre Proxmox](https://github.com/amtraorek/corelab) 
-> **🟡 En desarrollo** · ***Iniciado el*** **01/07/2026** 
+## Proyectos
+
+### [CoreLab — Plataforma de Infraestructura y Ciberseguridad sobre Proxmox](https://github.com/amtraorek/corelab)
+
+> **En desarrollo** · ***Iniciado el*** **01/07/2026**
 
 Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de aprendizaje para administración de sistemas, cloud, monitorización y ciberseguridad.
 
@@ -101,8 +97,9 @@ Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de 
 | **Disponibilidad** | Uptime Kuma |
 | **Seguridad** | Vaultwarden |
 
-### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10** ⭐
-> **🟢 Finalizado** · ***Proyecto de final de grado*** 
+### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10**
+
+> **Finalizado** · ***Proyecto de final de grado***
 
 Despliegue completo de una infraestructura IT para una organización ficticia basada en el caso de Grup Alimentari Guissona, abarcando servicios de red, servidores, virtualización, almacenamiento, monitorización, seguridad y acceso remoto seguro.
 
@@ -115,14 +112,14 @@ Entorno desplegado combinando servidor local con Debian, Docker y servicios clou
 | **Componente** | **Tecnología** |
 |-----------|-----------|
 | **Servidor local** | Raspberry Pi |
-| **Contenerización**| Docker |
+| **Contenerización** | Docker |
 | **Monitorización de seguridad (SOC)** | Wazuh SIEM |
 | **Acceso remoto seguro** | WireGuard VPN |
 | **Servicios cloud** | AWS |
 
 ---
 
-## 📜 Certificaciones
+## Certificaciones
 
 | Estado | Certificación | Emisor |
 |--------|--------------|--------|
@@ -134,7 +131,7 @@ Entorno desplegado combinando servidor local con Debian, Docker y servicios clou
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 Si quieres hablar sobre **Cloud Computing, Infraestructura, Ciberseguridad** o colaborar en algún proyecto, no dudes en contactar conmigo.
 
@@ -153,7 +150,3 @@ Si quieres hablar sobre **Cloud Computing, Infraestructura, Ciberseguridad** o c
 </a>
 
 </p>
-
-
-
-
