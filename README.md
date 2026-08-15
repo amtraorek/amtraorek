@@ -97,7 +97,7 @@ Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de 
 | **Disponibilidad** | Uptime Kuma |
 | **Seguridad** | Vaultwarden |
 
-### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10**
+### [Tecnure Serveis — Infraestructura TI para Grup Alimentari Guissona.](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10**
 
 > **Finalizado** · ***Proyecto de final de grado***
 
