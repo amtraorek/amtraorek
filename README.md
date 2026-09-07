@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona
+  <b>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</b> · Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 
 ## Perfil
 
-**Técnico en Sistemas Microinformáticos y Redes (SMR)**, especializado en administración de sistemas, redes y soporte IT, con un claro enfoque en Cloud Computing, Ciberseguridad e Infraestructura y Administración de Sistemas.
+**Técnico en Sistemas Microinformáticos y Redes (SMR)** y actualmente estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con enfoque en administración de sistemas, redes, Cloud Computing, Ciberseguridad e Infraestructura.
 
 He desarrollado experiencia práctica en administración de sistemas y servidores, configuración de redes, virtualización y soporte técnico, complementando mi formación con certificaciones de Microsoft y Cisco, homelabs y proyectos reales.
 
-Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
+Actualmente continúo mi formación en **Administración de Sistemas Informáticos en Red (ASIR)**, ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
 
 Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y ciberseguridad, participando en el diseño, despliegue y protección de infraestructuras.
 
@@ -123,11 +123,11 @@ Entorno desplegado combinando servidor local con Debian, Docker y servicios clou
 
 | Estado | Certificación | Emisor |
 |--------|--------------|--------|
-| ✅ | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
-| ✅ | AI-900 — Fundamentos de Azure AI | Microsoft |
-| ✅ | CCST — Ciberseguridad | Cisco |
-| ⏳ | AZ-900 — Fundamentos de Azure | Microsoft |
-| ⏳ | AWS Cloud Practitioner | AWS |
+| Completada | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
+| Completada | AI-900 — Fundamentos de Azure AI | Microsoft |
+| Completada | AZ-900 — Fundamentos de Azure | Microsoft |
+| Completada | CCST — Ciberseguridad | Cisco |
+| En proceso | AWS Cloud Practitioner | AWS |
 
 ---
 
