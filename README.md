@@ -26,7 +26,7 @@
 
 He desarrollado experiencia práctica en administración de sistemas y servidores, configuración de redes, virtualización y soporte técnico, complementando mi formación con certificaciones de Microsoft y Cisco, homelabs y proyectos reales.
 
-Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
+Actualmente continúo mi formación en Administración de Sistemas Informáticos en Red (ASIR), ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [SecOps Lab](https://github.com/amtraorek/secops-lab), [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
 
 Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y ciberseguridad, participando en el diseño, despliegue y protección de infraestructuras.
 
@@ -81,41 +81,29 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 
 ## Proyectos
 
-### [CoreLab — Plataforma de Infraestructura y Ciberseguridad sobre Proxmox](https://github.com/amtraorek/corelab)
+### [SecOps Lab — Operaciones de seguridad sobre CoreLab](https://github.com/amtraorek/secops-lab)
 
-> **En desarrollo** · ***Iniciado el*** **01/07/2026**
+> **Activo** · *En desarrollo*
 
-Infraestructura self-hosted sobre **Proxmox VE**, diseñada como laboratorio de aprendizaje para administración de sistemas, cloud, monitorización y ciberseguridad.
+Capa de seguridad que monitoriza y analiza la infraestructura de CoreLab mediante **Wazuh SIEM**, con agentes en Linux, Windows y OPNsense.
 
-| **Componente** | **Tecnología** |
-|------------|------------|
-| **Hipervisor** | Proxmox VE |
-| **Contenedores** | Docker + LXC |
-| **DNS interno** | AdGuard Home + BIND9 |
-| **Proxy inverso** | Nginx Proxy Manager |
-| **Monitorización** | Prometheus + Grafana |
-| **Disponibilidad** | Uptime Kuma |
-| **Seguridad** | Vaultwarden |
+`Wazuh` · `Proxmox VE` · `Debian` · `OPNsense` · `Windows 11` · `FreeBSD`
 
-### [tecnure-serveis](https://github.com/amtraorek/tecnure-serveis) — Nota **10 / 10**
+### [CoreLab — Laboratorio de infraestructura self-hosted](https://github.com/amtraorek/corelab)
 
-> **Finalizado** · ***Proyecto de final de grado***
+> **Activo** · *En desarrollo*
 
-Despliegue completo de una infraestructura IT para una organización ficticia basada en el caso de Grup Alimentari Guissona, abarcando servicios de red, servidores, virtualización, almacenamiento, monitorización, seguridad y acceso remoto seguro.
+Laboratorio sobre **Proxmox VE** con servicios autoalojados en Docker y LXC: DNS interno, proxy inverso, monitorización, disponibilidad y seguridad.
 
-Implementación de servicios como Active Directory, DNS, Nextcloud, WordPress, correo corporativo, copias de seguridad y herramientas de monitorización.
+`Proxmox VE` · `Docker` · `LXC` · `AdGuard Home` · `BIND9` · `Nginx Proxy Manager` · `Prometheus` · `Grafana` · `Uptime Kuma` · `Vaultwarden`
 
-Desarrollo de un pequeño SOC con Wazuh SIEM, Suricata IDS/IPS y Fail2ban, integrando alertas de seguridad y análisis de eventos.
+### [tecnure-serveis — Infraestructura IT para Grup Alimentari Guissona](https://github.com/amtraorek/tecnure-serveis)
 
-Entorno desplegado combinando servidor local con Debian, Docker y servicios cloud en AWS.
+> **Finalizado** · *Proyecto de final de grado*
 
-| **Componente** | **Tecnología** |
-|-----------|-----------|
-| **Servidor local** | Raspberry Pi |
-| **Contenerización** | Docker |
-| **Monitorización de seguridad (SOC)** | Wazuh SIEM |
-| **Acceso remoto seguro** | WireGuard VPN |
-| **Servicios cloud** | AWS |
+Despliegue completo de infraestructura IT para una organización ficticia: Active Directory, DNS, Nextcloud, WordPress, correo, backups, monitorización y un pequeño SOC con Wazuh, Suricata y Fail2ban.
+
+`Raspberry Pi` · `Docker` · `Wazuh SIEM` · `Suricata` · `Fail2ban` · `WireGuard` · `AWS`
 
 ---
 
@@ -125,8 +113,8 @@ Entorno desplegado combinando servidor local con Debian, Docker y servicios clou
 |--------|--------------|--------|
 | ✅ | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
 | ✅ | AI-900 — Fundamentos de Azure AI | Microsoft |
-| ✅ | CCST — Ciberseguridad | Cisco |
-| ⏳ | AZ-900 — Fundamentos de Azure | Microsoft |
+| ✅| CCST — Ciberseguridad | Cisco |
+| ✅| AZ-900 — Fundamentos de Azure | Microsoft |
 | ⏳ | AWS Cloud Practitioner | AWS |
 
 ---
