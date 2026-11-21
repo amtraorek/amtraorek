@@ -1,18 +1,15 @@
-<h1 align="center">Amadou Traore Keita</h1>
-
 <p align="center">
-  <b>Cloud • Ciberseguridad • Infraestructura</b>
+  <img src="./assets/readme-hero.gif" alt="Amadou Traore Keita — Cloud, Ciberseguridad e Infraestructura" width="100%">
 </p>
 
 <p align="center">
-  <b>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</b> · Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona
+  <b>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</b><br>
+  Técnico en Sistemas Microinformáticos y Redes (SMR) · Barcelona<br>
+  <i>Construyendo infraestructura segura con proyectos reales y aprendizaje continuo.</i>
 </p>
 
 <p align="center">
-  <i>Construyendo infraestructura segura mediante proyectos reales, certificaciones y aprendizaje continuo.</i>
-</p>
-
-<p align="center">
+  <a href="https://www.amtraorek.es"><img src="https://img.shields.io/badge/amtraorek.es-e0a83a?style=flat-square&logo=googlechrome&logoColor=111111" alt="amtraorek.es"></a>
   <a href="https://linkedin.com/in/amtraorek"><img src="https://img.shields.io/badge/LinkedIn-amtraorek-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://bsky.app/profile/amtraorek.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@amtraorek-0085ff?style=flat-square&logo=bluesky&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Barcelona-España-c60b1e?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -22,15 +19,9 @@
 
 ## Perfil
 
-**Técnico en Sistemas Microinformáticos y Redes (SMR)** y actualmente estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, con enfoque en administración de sistemas, redes, Cloud Computing, Ciberseguridad e Infraestructura.
+Soy técnico en **Sistemas Microinformáticos y Redes (SMR)** y estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. Me centro en sistemas, redes, cloud y ciberseguridad, y desarrollo experiencia práctica construyendo laboratorios y proyectos de infraestructura.
 
-He desarrollado experiencia práctica en administración de sistemas y servidores, configuración de redes, virtualización y soporte técnico, complementando mi formación con certificaciones de Microsoft y Cisco, homelabs y proyectos reales.
-
-Actualmente continúo mi formación en **Administración de Sistemas Informáticos en Red (ASIR)**, ampliando conocimientos en cloud, infraestructura y ciberseguridad mediante laboratorios y proyectos como [SecOps Lab](https://github.com/amtraorek/secops-lab), [CoreLab](https://github.com/amtraorek/corelab) y [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis).
-
-Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y ciberseguridad, participando en el diseño, despliegue y protección de infraestructuras.
-
-> **Barcelona** · ES · CA · EN
+Actualmente desarrollo [SecOps Lab](https://github.com/amtraorek/secops-lab) y [CoreLab](https://github.com/amtraorek/corelab), y mantengo [Tecnure Serveis](https://github.com/amtraorek/tecnure-serveis), un proyecto académico de infraestructura IT.
 
 ---
 
@@ -39,43 +30,27 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Virtualización
+### Infraestructura y sistemas
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-Containers-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-### Sistemas operativos y servidores
-
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-
-### Infraestructura y monitorización
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-005A9C?style=flat-square&logo=microsoft&logoColor=white)
 
-### Seguridad y redes
+### Redes y seguridad
 
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-C0252C?style=flat-square)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
-![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=flat-square)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-### Herramientas y lenguajes
+### Observabilidad y automatización
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -85,7 +60,7 @@ Mi objetivo es crecer profesionalmente en administración de sistemas, cloud y c
 
 > **Activo** · *En desarrollo*
 
-Capa de seguridad que monitoriza y analiza la infraestructura de CoreLab mediante **Wazuh SIEM**, con agentes en Linux, Windows y OPNsense.
+Capa de seguridad de CoreLab con **Wazuh SIEM y 13 agentes monitorizados**, además de una red aislada para pruebas controladas.
 
 `Wazuh` · `Proxmox VE` · `Debian` · `OPNsense` · `Windows 11` · `FreeBSD`
 
@@ -93,15 +68,15 @@ Capa de seguridad que monitoriza y analiza la infraestructura de CoreLab mediant
 
 > **Activo** · *En desarrollo*
 
-Laboratorio sobre **Proxmox VE** con servicios autoalojados en Docker y LXC: DNS interno, proxy inverso, monitorización, disponibilidad y seguridad.
+Homelab sobre **Proxmox VE** con **12 contenedores LXC, 3 máquinas virtuales y 16 servicios** de red, seguridad, almacenamiento y monitorización. Incluye copias diarias con Proxmox Backup Server.
 
 `Proxmox VE` · `Docker` · `LXC` · `AdGuard Home` · `BIND9` · `Nginx Proxy Manager` · `Prometheus` · `Grafana` · `Uptime Kuma` · `Vaultwarden`
 
 ### [tecnure-serveis — Infraestructura IT para Grup Alimentari Guissona](https://github.com/amtraorek/tecnure-serveis)
 
-> **Finalizado** · *Proyecto de final de grado*
+> **Finalizado** · *Proyecto académico · Nota: 10/10*
 
-Despliegue completo de infraestructura IT para una organización ficticia: Active Directory, DNS, Nextcloud, WordPress, correo, backups, monitorización y un pequeño SOC con Wazuh, Suricata y Fail2ban.
+Caso académico de infraestructura IT para **Grup Alimentari Guissona**: Active Directory, DNS, Nextcloud, WordPress, correo, copias de seguridad, monitorización y un SOC básico con Wazuh, Suricata y Fail2ban.
 
 `Raspberry Pi` · `Docker` · `Wazuh SIEM` · `Suricata` · `Fail2ban` · `WireGuard` · `AWS`
 
@@ -109,13 +84,13 @@ Despliegue completo de infraestructura IT para una organización ficticia: Activ
 
 ## Certificaciones
 
-| Estado | Certificación | Emisor |
-|--------|--------------|--------|
-| ✅ Completada | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft |
-| ✅ Completada | AI-900 — Fundamentos de Azure AI | Microsoft |
-| ✅ Completada | CCST — Ciberseguridad | Cisco |
-| ✅ Completada | AZ-900 — Fundamentos de Azure | Microsoft |
-| ⏳ En proceso | AWS Cloud Practitioner | AWS |
+| Estado | Certificación | Emisor | Fecha | Verificación |
+|---|---|---|---|---|
+| ✅ Completada | CCST Cybersecurity | Cisco | Mayo 2026 | [Credly](https://www.credly.com/users/amtraorek) |
+| ✅ Completada | SC-900 — Fundamentos de Seguridad, Cumplimiento e Identidad | Microsoft | Marzo 2026 | [Credly](https://www.credly.com/users/amtraorek) |
+| ✅ Completada | AI-900 — Fundamentos de Azure AI | Microsoft | Marzo 2026 | [Credly](https://www.credly.com/users/amtraorek) |
+| ✅ Completada | AZ-900 — Fundamentos de Azure | Microsoft | Agosto 2026 | [Microsoft Learn](https://learn.microsoft.com/es-es/users/amtraorek/credentials/a4b383e64de4234d) |
+| ⏳ En preparación | AWS Certified Cloud Practitioner | AWS | — | [Certificación](https://aws.amazon.com/certification/certified-cloud-practitioner/) |
 
 ---
 

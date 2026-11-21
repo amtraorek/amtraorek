@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1040, initial-scale=1">
+  <title>Amadou Traore Keita — Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    html,body{margin:0;width:1040px;height:300px;overflow:hidden}
+    body{background:#090c10;color:#f2f5f8;font-family:Manrope,"Segoe UI",Arial,sans-serif}
+    .hero{position:relative;width:1040px;height:300px;overflow:hidden;background:#090c10}
+    .watermark{position:absolute;right:-38px;top:30px;color:#11171f;font:800 268px/.95 "Space Grotesk","Segoe UI",Arial,sans-serif;letter-spacing:-22px;user-select:none;opacity:0;animation:watermark-enter 9s ease-in-out infinite}
+    .ambient{position:absolute;width:38px;height:38px;opacity:.13;filter:drop-shadow(0 0 14px currentColor);animation:float 9s ease-in-out infinite}
+    .ambient svg{width:100%;height:100%;display:block}
+    .amber{color:#e0a83a}.blue{color:#60a5fa}.green{color:#4ade80}
+    .i1{left:34px;top:158px;width:32px;height:32px;animation-delay:-3s}
+    .i2{left:500px;top:42px;width:30px;height:30px;animation-delay:-5s}
+    .i3{left:698px;top:233px;width:32px;height:32px;animation-delay:-2s}
+    .i4{right:26px;top:184px;width:34px;height:34px;animation-delay:-6s}
+    .i5{left:34px;bottom:18px;width:35px;height:35px;animation-delay:-4s}
+    .i6{right:112px;top:55px;width:40px;height:40px;animation-delay:-1s}
+    .i7{right:195px;bottom:22px;width:37px;height:37px;animation-delay:-7s}
+    @keyframes float{0%,100%{transform:translateY(0) rotate(-8deg);opacity:.1}50%{transform:translateY(-32px) rotate(12deg);opacity:.26}}
+    .content{position:absolute;z-index:2;left:68px;top:42px;width:620px}
+    .eyebrow{display:flex;align-items:center;gap:11px;margin:0 0 24px;color:#a4afbd;font:12px/1.4 "JetBrains Mono",Consolas,monospace;letter-spacing:.6px}
+    .mark{width:50px;height:25px;object-fit:contain;object-position:left center}
+    .eyebrow-line{width:1px;height:17px;background:#283340}
+    h1{margin:0;color:#f2f5f8;font:700 47px/1.08 "Space Grotesk","Segoe UI",Arial,sans-serif;letter-spacing:-1.8px;white-space:nowrap}
+    .accent-line{width:38px;height:3px;margin:15px 0 18px;border-radius:2px;background:#e0a83a;box-shadow:0 0 4px rgba(224,168,58,.15);animation:accent-breathe 9s ease-in-out infinite}
+    .roles{display:flex;align-items:center;gap:12px;font:700 18px/1.3 Manrope,"Segoe UI",Arial,sans-serif;white-space:nowrap}
+    .roles .cloud{color:#60a5fa}.roles .security{color:#f2f5f8}.roles .infra{color:#4ade80}.roles .sep{color:#e0a83a;font-size:14px}
+    .summary{margin:18px 0 0;color:#a4afbd;font:400 12px/1.5 "JetBrains Mono",Consolas,monospace;letter-spacing:.15px}
+    .hero-logo{position:absolute;z-index:1;right:12px;top:-42px;width:460px;height:420px;object-fit:contain;filter:drop-shadow(0 0 18px rgba(224,168,58,.12));animation:logo-float 9s ease-in-out infinite}
+    @keyframes logo-float{0%,100%{transform:translateY(0) scale(1);filter:drop-shadow(0 0 14px rgba(224,168,58,.08))}50%{transform:translateY(-7px) scale(1.025);filter:drop-shadow(0 0 25px rgba(224,168,58,.25))}}
+    @keyframes accent-breathe{0%,100%{opacity:.72;transform:scaleX(.88);transform-origin:left;box-shadow:0 0 4px rgba(224,168,58,.15)}50%{opacity:1;transform:scaleX(1);box-shadow:0 0 11px rgba(224,168,58,.5)}}
+    @keyframes watermark-enter{0%,100%{opacity:0;transform:translateY(7px)}18%{opacity:0;transform:translateY(7px)}34%,78%{opacity:1;transform:translateY(0)}92%{opacity:0;transform:translateY(-4px)}}
+    .edge{position:absolute;left:0;bottom:0;width:100%;height:1px;background:linear-gradient(90deg,transparent,rgba(224,168,58,.42),transparent)}
+    @media(prefers-reduced-motion:reduce){.ambient,.hero-logo,.accent-line,.watermark{animation:none;opacity:1;transform:none}}
+  </style>
+</head>
+<body>
+  <main class="hero" aria-label="Cabecera del portfolio de Amadou Traore Keita">
+    <div class="watermark" aria-hidden="true">ATK</div>
+    <span class="ambient amber i1" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><path d="M6 6h.01M6 18h.01"/></svg></span>
+    <span class="ambient blue i2" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></span>
+    <span class="ambient green i3" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 1v3m6-3v3m-6 16v3m6-3v3M1 9h3m17 0h2M1 15h3m17 0h2"/></svg></span>
+    <span class="ambient blue i4" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m16 18 6-6-6-6M8 6l-6 6 6 6"/></svg></span>
+    <span class="ambient amber i5" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5m-18 7c0 1.66 4 3 9 3s9-1.34 9-3"/></svg></span>
+    <span class="ambient blue i6" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg></span>
+    <span class="ambient green i7" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span>
+    <section class="content">
+      <div class="eyebrow"><img class="mark" src="portfolio-logo-white.png" alt="aTk."></div>
+      <h1>Amadou Traore Keita</h1>
+      <div class="accent-line"></div>
+      <div class="roles"><span class="cloud">Cloud</span><span class="sep">·</span><span class="security">Ciberseguridad</span><span class="sep">·</span><span class="infra">Infraestructura</span></div>
+      <p class="summary">Estudiante de ASIR · Técnico SMR · Barcelona, España</p>
+    </section>
+    <img class="hero-logo" src="portfolio-logo-white.png" alt="">
+    <div class="edge"></div>
+  </main>
+</body>
+</html>
